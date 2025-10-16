@@ -4,7 +4,7 @@
 - Created free Azure account and new Entra ID tenant: `olga-techlab.onmicrosoft.com`
 
 ## Users
-- Added users: Alice (IT), Bob (HR), Carol (Finance)
+- Added users: Borys (IT), Volodymyr (HR), Bohdan (Finance)
 - Added custom attributes: department, location
 
 ## Groups
