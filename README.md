@@ -25,7 +25,6 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 ---
 
 ## Screenshots
-Screenshots will be uploaded in `/screenshots` once the lab is complete.
 ![IT Support Group Members] (https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_it_support_members.png)
 
 ---
