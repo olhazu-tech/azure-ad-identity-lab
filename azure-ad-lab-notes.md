@@ -20,5 +20,5 @@
 
 
 ## Security
-- Enabled MFA for IT-Support group
+- Enabled MFA the user of IT-Support group (not the whole group as Zure free version limited this feature)
 - Tested sign-in and Conditional Access policy
