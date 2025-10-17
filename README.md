@@ -7,7 +7,7 @@
 ## What I Did
 - Created a new Entra ID tenant in the Azure portal  
 - Added test users and security groups  
-- Assigned role-based access (RBAC)  
+- Assigned role-based access (RBAC) directly to users 
 - Enabled MFA for one group and tested sign-in  
 - Built a Conditional Access policy requiring MFA outside the U.S.  
 - Captured screenshots and notes
