@@ -12,8 +12,12 @@
 - Added corresponding users to each group
 
 ## Roles (RBAC)
-- **IT-Support group → User Administrator**
-- **HR group → Password Administrator**
+
+- Assigned **User Administrator** role directly to user *Borys Johnsonuk*.
+
+> Demonstrates user-level role-based access control (RBAC) assignment in Microsoft Entra ID.
+
+
 
 ## Security
 - Enabled MFA for IT-Support group
