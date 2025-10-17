@@ -40,6 +40,11 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 
 ---
 
+**3️⃣ MFA Enabled for Borys Johnsonuk**  
+> Shows per-user MFA enabled for Borys Johnsonuk in Microsoft Entra ID.  
+![Borys MFA Enabled](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_borys_mfa_enabled.png)
+
+---
 ## Key Concepts Learned
 - MDM vs MAM: device vs app-level management  
 - Autopilot workflow: vendor-registered hardware → Entra join → Intune setup  
