@@ -47,7 +47,15 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 
 ---
 ## Key Concepts Learned
-- MDM vs MAM: device vs app-level management  
-- Autopilot workflow: vendor-registered hardware → Entra join → Intune setup  
-- Triage by impact & SLA: prioritizing support tickets effectively
+
+- **Tenant basics:** Created a new Microsoft Entra ID tenant and worked in the Entra admin center (Users, Groups, Roles & administrators).
+- **User management:** Created user accounts with UPNs and initial passwords; saw “account enabled/disabled” and where to edit properties.
+- **Groups vs. roles:** Built a **Security group** (IT-Support) and added a member; confirmed that group membership **does not** grant admin privileges by itself.
+- **Directory roles (RBAC):** Assigned the **User Administrator** built-in role **directly to a user** (Borys Johnsonuk) and verified it under *Assigned roles*.
+- **Licensing constraint:** Noted that assigning roles **to groups** requires Entra ID **P1/P2**; on Free tier only user assignments were possible.
+- **Per-user MFA:** Enabled MFA for a user via **Per-user MFA** (classic portal) and verified the **Enabled** status.
+- **Navigation know-how:** Learned exact portal paths for Users, Groups, Roles, and the Per-user MFA link; captured evidence screenshots.
+- **Documentation workflow:** Organized a GitHub repo, added screenshots to `/screenshots/`, and embedded them inline in Markdown with clear captions.
+- **Consistency discipline:** Aligned README/notes wording with real actions (roles assigned to **users**, not groups).
+
 
