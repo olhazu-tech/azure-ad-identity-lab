@@ -25,7 +25,17 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 ---
 
 ## Screenshots
+
+**1️⃣ IT Support Group Members**
+> Shows the IT-Support group in Azure AD with user Borys Johnsonuk assigned as a member.
+
 ![IT Support Group Members](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_it_support_members.png)
+
+---
+
+**2️⃣ Borys User Administrator Role**
+> Displays the role assignment screen where Borys Johnsonuk is assigned as a User Administrator.
+
 ![Borys User Administrator Role](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_borys_user_admin_role.png)
 
 ---
