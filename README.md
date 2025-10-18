@@ -40,9 +40,10 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 
 ---
 
-**3️⃣ MFA Enabled for Borys Johnsonuk**  
-> Shows per-user MFA enabled for Borys Johnsonuk in Microsoft Entra ID.
-  
+**3️⃣ MFA Configuration and Verification**
+> Demonstrates enabling and verifying per-user MFA in Microsoft Entra ID (Azure AD).  
+> The screenshot shows user **Borys Johnsonuk** listed with MFA status **Enabled**, confirming the setup worked and indicating where administrators can manage MFA options (enable, disable, or reset).
+
 ![Borys MFA Enabled](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_borys_mfa_enabled.png)
 
 ---
