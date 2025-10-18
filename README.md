@@ -54,13 +54,6 @@ Microsoft Entra ID (Azure AD) · Conditional Access · MFA (Microsoft Authentica
 
 ---
 
-**5️⃣ Conditional Access Overview**
-
-> Shows the Conditional Access Overview page in Microsoft Entra ID (Azure AD).  
-> Policy creation options are disabled in the Free tier, but this screen demonstrates where administrators configure rules enforcing MFA and sign-in conditions.
-
-![Conditional Access Overview]([https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_conditional_access_overview.png](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_conditional_access_overview.png))
-
 
 ---
 ## Key Concepts Learned
