@@ -73,7 +73,7 @@ This lab demonstrates hands-on understanding of identity and access management�
 
 **2️⃣ Borys User Administrator Role**  
 > Displays the role assignment screen where **Borys Johnsonuk** is assigned as a **User Administrator**.  
-![Borys User Administrator Role](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_user_admin_role.png)
+![Borys User Administrator Role]([https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_user_admin_role.png](https://github.com/olhazu-tech/azure-ad-identity-lab/blob/main/screenshots/azure_ad_identity_lab_screenshots_borys_user_admin_role.png))
 
 ---
 
