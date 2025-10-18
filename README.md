@@ -110,5 +110,5 @@ This lab demonstrates hands-on understanding of identity and access management�
 
 ---
 
-📘 *Author: Olga Zulkofske*  
+📘 * Authors: Olga Zulkofske and ChatGPT, her slightly confused lab partner who needed a few reality checks along the way.*  
 🗓️ *Completed: October 2025*
